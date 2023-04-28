@@ -66,6 +66,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             solutionTextView.setText(resultTextView.getText());
             return;
         }
+
+        if(buttonText.equals("+/-")){
+            resultTextView.setText("-"+numberToCalculate);
+            solutionTextView.setText(resultTextView.getText().toString());
+
+        }
+
+
         if(buttonText.equals("C")){
             numberToCalculate = numberToCalculate.replace(numberToCalculate,"0");
         }else{
