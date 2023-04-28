@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ac_color">#5A0808</color>
+    <color name="plus_minus_color">#5A0808</color>
+    <color name="percentage_color">#5A0808</color>
+    <color name="operator_color">#C63406</color>
+    <color name="number_color">#BF4E03</color>
+    <color name="dot_color">#5A0808</color>
+    <color name="triple_zero_color">#5A0808</color>
+</resources>
+
+
+
+
+
+
